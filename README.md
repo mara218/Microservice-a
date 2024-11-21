@@ -216,7 +216,7 @@ This microservice was implemented for **Samuel Jamieson**. The microservice hand
 ### **4. How Is Your Teammate Going to Access Your Microservice?**
 #### **Access Options**:
 1. **From GitHub**:
-   - Clone the repository using the following link: [GitHub Repository](https://github.com/mara218). 
+   - Clone the repository using the following link: [GitHub Repository](https://github.com/mara218/microservice-a). 
    - Ensure Node.js and npm are installed locally.
 
 2. **Run Locally**:
@@ -232,8 +232,6 @@ This microservice was implemented for **Samuel Jamieson**. The microservice hand
         ```
      4. Use the base URL `http://localhost:3000` to make API calls.
 
-3. **Hosted Version** (Optional, if deployed):
-   - If a deployed version is available, the hosted URL will be provided, e.g., `https://your-deployment-url.com`.
 
 #### **Testing**:
 - Use the test script (`test_microservice.js`) provided in the repository or test the endpoints via Postman.
